@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on osgav</title>
-    <link>https://osgav.github.io/post/</link>
-    <description>Recent content in Posts on osgav</description>
+    <title>osgav</title>
+    <link>https://osgav.github.io/osgav/</link>
+    <description>Recent content on osgav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jun 2016 13:41:15 +0000</lastBuildDate>
-    <atom:link href="https://osgav.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://osgav.github.io/osgav/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>$ whois osgav</title>
-      <link>https://osgav.github.io/post/whois-osgav/</link>
+      <link>https://osgav.github.io/osgav/post/whois-osgav/</link>
       <pubDate>Sun, 05 Jun 2016 13:41:15 +0000</pubDate>
       
-      <guid>https://osgav.github.io/post/whois-osgav/</guid>
+      <guid>https://osgav.github.io/osgav/post/whois-osgav/</guid>
       <description>&lt;p&gt;As a Global Availability &amp;amp; Performance Engineer, or more generally a Systems Engineer, I find myself using a multitude of web portals, tools and API integrations to monitor, analyze and optimize the health of a high traffic global travel search engine.&lt;/p&gt;
 
 &lt;p&gt;This engine is comprised of various website, API and backend systems. There are different systems for monitoring the operation (CDN, global loadbalancing), availability, performance (RUM &amp;amp; APM), OS metrics and business KPIs across all of these. My team are the administrators for the availability and performance systems, and we work on creating Global Health views across all of these systems - also integrating with alerting solutions - to give the developers building and running them a better idea of how their products are performing.&lt;/p&gt;
